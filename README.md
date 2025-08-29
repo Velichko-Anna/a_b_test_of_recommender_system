@@ -4,6 +4,6 @@
 
 Команда разработчиков рекомендательных систем создала новый алгоритм рекомендаций, который, по их мнению, будет показывать более интересный контент для каждого пользователя. Необходимо рассчитать параметры A/B-теста, который позволит проверить эту гипотезу, и проанализировать его результаты.
 
-Все расчеты были произведены с помощью Python (pandas, matplotlib, scipy, statsmodels) и представлены в [отдельном файле](https://github.com/Velichko-Anna/a_b_test_of_recommender_system/blob/main/a_b_test_for_recommender_system.ipynb)
+Все расчеты были произведены в Jupiter Notebook с помощью Python (pandas, matplotlib, scipy, statsmodels) и представлены в [отдельном файле](https://github.com/Velichko-Anna/a_b_test_of_recommender_system/blob/main/a_b_test_for_recommender_system.ipynb)
 
 *Проект носит учебный характер. Все исходные данные были изменены или удалены для защиты конфиденциальности.*
